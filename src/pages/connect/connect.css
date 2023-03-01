@@ -1,0 +1,29 @@
+input {
+  padding: 0.5rem;
+  border: double 3px transparent;
+  border-radius: 6px;
+  background-image: linear-gradient(white, white),
+    linear-gradient(to right, #beb63b, #6100ff);
+  background-origin: border-box;
+  background-clip: padding-box, border-box;
+}
+
+textarea {
+  padding: 0.5rem;
+  border: double 3px transparent;
+  border-radius: 6px;
+  background-image: linear-gradient(white, white),
+    linear-gradient(to right, #c0369a, #2e890d);
+  background-origin: border-box;
+  background-clip: padding-box, border-box;
+}
+
+button {
+  padding: 0.5rem;
+  border: double 3px transparent;
+  border-radius: 6px;
+  background-image: linear-gradient(white, white),
+    linear-gradient(to right, #895F0D, #C036AA);
+  background-origin: border-box;
+  background-clip: padding-box, border-box;
+}
